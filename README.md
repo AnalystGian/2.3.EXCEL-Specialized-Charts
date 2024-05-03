@@ -6,7 +6,7 @@ enabling users to create tailored visualizations that effectively communicate co
 1. Adapt standard charts to create unique visualisations
 2. Create Waterfall and Funnel Charts
 
-## The Excel file includes 3 sheets:
+## The Excel file includes 2 sheets:
 1. Summary data
 2. Dashboard
 
